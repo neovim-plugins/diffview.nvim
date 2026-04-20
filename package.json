@@ -1,5 +1,5 @@
 {
-  "name": "@softvisio/diffview.nvim",
+  "name": "@neovim-plugins/diffview.nvim",
   "private": true,
   "description": "Fork of sindrets/diffview.nvim",
   "homepage": "https://github.com/softvisio/diffview.nvim",
